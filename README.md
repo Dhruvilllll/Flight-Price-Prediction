@@ -33,6 +33,9 @@ Explain the machine learning model(s) used, including the algorithms, techniques
 ## Results
 Share the performance of the trained model(s) on the test data. You can include quantitative metrics, visualizations, or any other relevant information.
 
+![](graph1.png)
+
+
 ## Contributing
 If you're open to contributions, provide guidelines for others to contribute to the project. You can mention coding standards, pull request procedures, or any other relevant information.
 
