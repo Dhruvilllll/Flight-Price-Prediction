@@ -1,4 +1,3 @@
-Here's a suggested structure and content for the README file of your "Flight Price Prediction" project on GitHub:
 
 # Flight Price Prediction
 
