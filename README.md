@@ -11,7 +11,6 @@ This project aims to build a machine learning model to predict flight prices bas
 - [Model](#model)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 Provide step-by-step instructions for setting up the project environment, including any dependencies or prerequisites. For example:
@@ -37,9 +36,3 @@ Share the performance of the trained model(s) on the test data. You can include 
 ## Contributing
 If you're open to contributions, provide guidelines for others to contribute to the project. You can mention coding standards, pull request procedures, or any other relevant information.
 
-## License
-Specify the license under which the project is released. For example:
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to modify and expand on this structure based on the specific details of your project. The README file should provide clear and concise information about your project, making it easy for others to understand and potentially contribute to it.
